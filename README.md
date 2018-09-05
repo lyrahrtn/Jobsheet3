@@ -1,6 +1,7 @@
 # Jobsheet3
 ![alt text](https://github.com/lyrahrtn/Jobsheet3/blob/master/Latihan1%20no1.PNG);
 ![alt text](https://github.com/lyrahrtn/Jobsheet3/blob/master/latihan1%20no1c.PNG);
+![alt text](https://github.com/lyrahrtn/Jobsheet3/blob/master/latihan1%20d.PNG);
 ![alt text](https://github.com/lyrahrtn/Jobsheet3/blob/master/Latihan1%20no2.PNG);
 ![alt text](https://github.com/lyrahrtn/Jobsheet3/blob/master/latihan1%20no2b.PNG);
 ![alt text](https://github.com/lyrahrtn/Jobsheet3/blob/master/latihan2%20b.PNG);
