@@ -1,0 +1,11 @@
+# Jobsheet3
+![alt text](https://github.com/lyrahrtn/Jobsheet3/blob/master/Latihan1%20no1.PNG);
+![alt text](https://github.com/lyrahrtn/Jobsheet3/blob/master/Latihan1%20no1c.PNG);
+![alt text](https://github.com/lyrahrtn/Jobsheet3/blob/master/Latihan1%20no2.PNG);
+![alt text](https://github.com/lyrahrtn/Jobsheet3/blob/master/Latihan1%20no2b.PNG);
+![alt text](https://github.com/lyrahrtn/Jobsheet3/blob/master/Latihan2%20b.PNG);
+![alt text](https://github.com/lyrahrtn/Jobsheet3/blob/master/Latihan3%20b.PNG);
+![alt text](https://github.com/lyrahrtn/Jobsheet3/blob/master/Latihan4%20b.PNG);
+![alt text](https://github.com/lyrahrtn/Jobsheet3/blob/master/Latihan5%20b.PNG);
+![alt text](https://github.com/lyrahrtn/Jobsheet3/blob/master/Latihan6%20b.PNG);
+![alt text](https://github.com/lyrahrtn/Jobsheet3/blob/master/tugas%20praktikum.PNG);
