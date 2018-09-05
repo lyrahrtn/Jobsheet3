@@ -9,4 +9,3 @@
 ![alt text](https://github.com/lyrahrtn/Jobsheet3/blob/master/latihan4%20b.PNG);
 ![alt text](https://github.com/lyrahrtn/Jobsheet3/blob/master/latihan5%20b.PNG);
 ![alt text](https://github.com/lyrahrtn/Jobsheet3/blob/master/tugas%20praktikum.PNG);
-![alt text](https://github.com/lyrahrtn/Jobsheet3/blob/master/kalkulator.PNG);
